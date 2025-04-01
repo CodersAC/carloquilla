@@ -1,3 +1,3 @@
 export const getImageUrl = (path) => {
-    return `https://codersac.github.io/carloquilla/assets/${path}`;
+    return `https://codersac.github.io/assets/${path}`;
 }
